@@ -1,7 +1,7 @@
 # Iris Tumor Detection  
 > A deep learning-based project utilizing CNNs to detect tumors in the iris region with high accuracy.  
 
-![Iris Tumor Detection](assets/iris-tumor-detection.png) <!-- Replace with your image path or URL -->
+![Iris Tumor Detection](Images/Screenshot (555).png) <!-- Replace with your image path or URL -->
 
 ---
 
